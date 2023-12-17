@@ -10,7 +10,7 @@ A simple React application that utilizes an API to search for movie data and dis
 ## Technologies Used
 
 - React.js
-- API (mention the API service you're using, e.g., OMDB, TMDb, etc.)
+- API - omdbapi.com
 
 ## Setup
 
@@ -22,9 +22,9 @@ To run this project locally:
 
 
 # API Usage
-This app uses an to fetch movie data. To use the API:
+This app uses an [omdbapi.com] to fetch movie data. To use the API:
 
-Get an API key is given in the code and add it to your environment variables.
+API key is given in the code.
 
 
 
